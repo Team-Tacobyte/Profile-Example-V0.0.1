@@ -1,0 +1,13 @@
+body {
+    background-color: grey;
+}
+
+.username {
+    text-align: center;
+    color: rgba(35, 36, 36, 0.981);
+}
+
+.badge
+{
+    text-align: right;
+}
